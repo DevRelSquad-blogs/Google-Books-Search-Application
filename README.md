@@ -1,7 +1,7 @@
 # Google-Books-Search-Application
 
 A simple Python application that uses the Google Books API to search for books and display the results in a GUI built with Tkinter.
-For additional insights and practical use cases, please see [this article on YouTube Analytics and Reporting API Guide](https://www.devrelsquad.com/post/unlocking-insights-with-youtube-analytics-and-reporting-apis-a-complete-guide).
+For additional insights and practical use cases, please see [this article on Google Books Search Application](https://www.devrelsquad.com/post/how-to-use-google-books-api).
 ## Features
 - Search for books by their title.
 - Displays book title, authors, and publisher information.
@@ -40,4 +40,4 @@ python google_books_search.py
 - Enter a book title in the search box and click on the "Search" button.
 - The app will display the results, including the book's title, authors, and publisher.
 
-If you would like more information on generating custom reports, please refer to the practical guide in [this article](https://www.devrelsquad.com/post/unlocking-insights-with-youtube-analytics-and-reporting-apis-a-complete-guide).
+If you would like more information on generating custom reports, please refer to the practical guide in [this article](https://www.devrelsquad.com/post/how-to-use-google-books-api).
